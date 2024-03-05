@@ -3,7 +3,7 @@
 ## Integrantes
 
 - **Cleverton Rocha**
-- [Nome do Integrante 2]
+- **Christian Mesaque**
 - [Nome do Integrante 3]
 - [Nome do Integrante 4]
 - [Nome do Integrante 5]
