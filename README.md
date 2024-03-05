@@ -24,5 +24,5 @@ O ReactFlix é uma aplicação web desenvolvida em React que utiliza uma [API](h
 ## Executando a Aplicação
 
 1. Clone o repositório: `git clone https://github.com/Cleverton-Rocha/react-flix`
-2. Navegue até o diretório do projeto: `cd tmdb-api-react`
+2. Navegue até o diretório do projeto: `cd react-flix`
 3. Rode o docker-compose `docker compose up`
