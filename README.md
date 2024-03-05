@@ -4,7 +4,7 @@
 
 - **Cleverton Rocha**
 - **Christian Mesaque**
-- [Nome do Integrante 3]
+- **Lucas Soares**
 - [Nome do Integrante 4]
 - [Nome do Integrante 5]
 
