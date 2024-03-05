@@ -16,6 +16,7 @@ Esta aplicação foi desenvolvida utilizando as seguintes tecnologias:
 - **Zustand**
 - **Typescript**
 - **Tailwind CSS**
+- **Bootstrap**
 
 ## Descrição
 
