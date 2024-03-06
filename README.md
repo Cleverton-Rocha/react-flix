@@ -4,8 +4,8 @@
 
 - **Cleverton Rocha**
 - **Christian Mesaque**
+- **Lucas Soares**
 - **Andre luiz**
-- [Nome do Integrante 4]
 - [Nome do Integrante 5]
 
 ## Tecnologias Utilizadas
@@ -16,6 +16,7 @@ Esta aplicação foi desenvolvida utilizando as seguintes tecnologias:
 - **Zustand**
 - **Typescript**
 - **Tailwind CSS**
+- **Bootstrap**
 
 ## Descrição
 
