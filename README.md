@@ -4,7 +4,7 @@
 
 - **Cleverton Rocha**
 - **Christian Mesaque**
-- [Nome do Integrante 3]
+- **Lucas Soares**
 - [Nome do Integrante 4]
 - [Nome do Integrante 5]
 
@@ -16,6 +16,7 @@ Esta aplicação foi desenvolvida utilizando as seguintes tecnologias:
 - **Zustand**
 - **Typescript**
 - **Tailwind CSS**
+- **Bootstrap**
 
 ## Descrição
 
